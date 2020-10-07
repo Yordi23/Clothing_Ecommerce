@@ -13,7 +13,7 @@ const StripeCheckoutButton = ({ price }) => {
   return (
     <StripeCheckout
       label="Pay Now"
-      name="Clothing Ecommerce"
+      name="Y.D. Clothing"
       image="https://sendeyo.com/up/d/f3eb2117da"
       description={`Your total is $${price}`}
       amount={priceForStripe}
