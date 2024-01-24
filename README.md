@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="resources/YD Clothing.png" alt="YD Clothing">
+</div>
+
 # About the project
 
-Simple clothing-ecommerce React App, for learning purposes.
+Simple clothing-ecommerce React App, for learning purposes. Hosted in Github pages, see [here](https://yordi23.github.io/Clothing_Ecommerce/)
 
 ## Available Scripts
 
