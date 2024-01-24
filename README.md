@@ -1,6 +1,6 @@
 # About the project
 
-Simple clothing-ecommerce React App, for learning purposes. The project is hosted on Heroku, click [here](https://yd-clothing.herokuapp.com/) to test it out.
+Simple clothing-ecommerce React App, for learning purposes.
 
 ## Available Scripts
 
